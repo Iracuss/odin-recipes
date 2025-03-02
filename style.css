@@ -1,0 +1,30 @@
+* {
+    background-color: #ffd2cf;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.options{
+    color:black;
+}
+
+#img{
+    width: 500px;
+    height: auto;
+}
+
+h2.ingredients, h2.steps, h2.description{
+    font-size: 40px;
+}
+
+p.description {
+    font-size: 20px;
+}
+
+.ingredients {
+    font-size: 24px;
+}
+
+.list {
+    font-size: 24px;
+    color: #2e2e2e;
+}
